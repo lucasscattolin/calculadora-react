@@ -1,0 +1,15 @@
+.input {
+    height: 8rem;
+    width: 90%;
+    margin: 2rem auto;
+    border-radius: 2rem;
+    background-color: var(--colorDos);
+    color: var(--blanco);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 0 2rem;
+    overflow: hidden;
+}

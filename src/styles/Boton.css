@@ -1,0 +1,21 @@
+.boton-contenedor {
+    width: 8rem;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 3.8rem;
+    background-color: var(--colorDos);
+    cursor: pointer;
+    color: var(--blanco);
+    border-radius: 2rem;
+}
+
+.boton-contenedor:hover {
+    filter: brightness(70%);
+}
+
+.operador {
+    background-color: var(--colorCuatro);
+}

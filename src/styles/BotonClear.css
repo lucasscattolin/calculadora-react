@@ -1,0 +1,5 @@
+.clear {
+    width: 90%;
+    text-transform: uppercase;
+    background-color: var(--colorCuatro);
+}
